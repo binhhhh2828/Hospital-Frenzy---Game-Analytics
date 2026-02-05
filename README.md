@@ -92,4 +92,4 @@ It was done mainly as a learning project to practice game analytics and explorat
 
 ## Author
 **Lai Thuy Binh**  
-IT Student | Data Analyst Intern Candidate
+Data Analyst 
