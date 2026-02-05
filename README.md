@@ -24,6 +24,7 @@ It was done mainly as a learning project to practice game analytics and explorat
   - Country
   - Revenue
 - The data used in this repository is anonymized and simplified for analysis purposes.
+<img width="1658" height="1074" alt="image" src="https://github.com/user-attachments/assets/e4c31f9e-cfd5-4217-9843-f203ed370b9a" />
 
 ---
 
@@ -48,9 +49,17 @@ It was done mainly as a learning project to practice game analytics and explorat
 
 ## Key Insights
 - Severe early churn occurred at Level 1, indicating onboarding issues.
-- Retention dropped significantly after the first day, suggesting low early engagement.
-- Revenue was highly dependent on a very small group of VIP players.
+<img width="1565" height="223" alt="image" src="https://github.com/user-attachments/assets/1820ebf1-1eb9-48a0-8252-c1fb75a08a36" />
+
+- After one day since installation, only around 15% of users continue playing the game. By Day 10, only about 2–3% of players remain active.
+<img width="684" height="557" alt="image" src="https://github.com/user-attachments/assets/b6899da4-61d4-4be9-90fc-3a8e5217e005" />
+
+- Revenue was highly dependent on a very small group of VIP  and Big Spenders (90%).
+<img width="1483" height="654" alt="image" src="https://github.com/user-attachments/assets/b4e3dcac-2c7a-463a-a5d8-46578bdbbaf6" />
+
 - Japan showed higher retention compared to other regions, while the USA was the main revenue driver.
+<img width="790" height="695" alt="image" src="https://github.com/user-attachments/assets/327215db-2122-48c6-b246-66e47a8cb9d1" />
+<img width="1107" height="659" alt="image" src="https://github.com/user-attachments/assets/b34c1437-3340-4e6d-bf89-dab99db46acc" />
 
 ---
 
